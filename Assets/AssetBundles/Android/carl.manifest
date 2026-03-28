@@ -1,0 +1,33 @@
+ManifestFileVersion: 0
+UnityVersion: 6000.2.12f1
+CRC: 3568489340
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 67dc323edebf6c0740112c94084f1741
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 3b8b629cd512abe03f70b0cd411ce10b
+  IncrementalBuildHash:
+    serializedVersion: 2
+    Hash: 4c158c620067666f8220ca58fee27ede
+HashAppended: 0
+ClassTypes:
+- Class: 1
+  Script: {instanceID: 0}
+- Class: 4
+  Script: {instanceID: 0}
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 23
+  Script: {instanceID: 0}
+- Class: 33
+  Script: {instanceID: 0}
+- Class: 43
+  Script: {instanceID: 0}
+- Class: 48
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/TestModel/New Folder/CarLow.prefab
+Dependencies: []

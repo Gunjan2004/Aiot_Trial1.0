@@ -1,0 +1,33 @@
+ManifestFileVersion: 0
+UnityVersion: 6000.2.12f1
+CRC: 1360587583
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 82d309f90dfb967fec8409bcc1771858
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 3b8b629cd512abe03f70b0cd411ce10b
+  IncrementalBuildHash:
+    serializedVersion: 2
+    Hash: fce5a2b3f1a2bfbd0587f4f7022d6c6c
+HashAppended: 0
+ClassTypes:
+- Class: 1
+  Script: {instanceID: 0}
+- Class: 4
+  Script: {instanceID: 0}
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 23
+  Script: {instanceID: 0}
+- Class: 33
+  Script: {instanceID: 0}
+- Class: 43
+  Script: {instanceID: 0}
+- Class: 48
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/Sc2/New Folder/HighCar.prefab
+Dependencies: []

@@ -1,0 +1,27 @@
+ManifestFileVersion: 0
+UnityVersion: 6000.2.12f1
+CRC: 3847487012
+HashAppended: 0
+AssetBundleManifest:
+  AssetBundleInfos:
+    Info_0:
+      Name: ardebugmenu
+      Dependencies: {}
+    Info_1:
+      Name: cube_bundle
+      Dependencies: {}
+    Info_2:
+      Name: sphere_bundle
+      Dependencies: {}
+    Info_3:
+      Name: model1_low
+      Dependencies: {}
+    Info_4:
+      Name: model2_high
+      Dependencies: {}
+    Info_5:
+      Name: model2_low
+      Dependencies: {}
+    Info_6:
+      Name: model1_highres
+      Dependencies: {}

@@ -1,0 +1,33 @@
+ManifestFileVersion: 0
+UnityVersion: 6000.2.12f1
+CRC: 3190338153
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: d804a70e8832a20fe47bec6da8c98dd1
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 3b8b629cd512abe03f70b0cd411ce10b
+  IncrementalBuildHash:
+    serializedVersion: 2
+    Hash: b9b60348511fbd7f672740b5f06687fe
+HashAppended: 0
+ClassTypes:
+- Class: 1
+  Script: {instanceID: 0}
+- Class: 4
+  Script: {instanceID: 0}
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 23
+  Script: {instanceID: 0}
+- Class: 33
+  Script: {instanceID: 0}
+- Class: 43
+  Script: {instanceID: 0}
+- Class: 48
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/Sc2/New Folder/Transport7C.prefab
+Dependencies: []

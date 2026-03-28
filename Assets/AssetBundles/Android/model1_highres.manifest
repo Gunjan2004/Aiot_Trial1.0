@@ -1,0 +1,33 @@
+ManifestFileVersion: 0
+UnityVersion: 6000.2.12f1
+CRC: 2988064662
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 58a3b4ee11af5e92bc02eb87ba98d4f9
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 3b8b629cd512abe03f70b0cd411ce10b
+  IncrementalBuildHash:
+    serializedVersion: 2
+    Hash: 2404d404c3d5ec79efba7abbfbed34ef
+HashAppended: 0
+ClassTypes:
+- Class: 1
+  Script: {instanceID: 0}
+- Class: 4
+  Script: {instanceID: 0}
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 23
+  Script: {instanceID: 0}
+- Class: 33
+  Script: {instanceID: 0}
+- Class: 43
+  Script: {instanceID: 0}
+- Class: 48
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/Sc2/New Folder/mclaren_p1.c4d.prefab
+Dependencies: []

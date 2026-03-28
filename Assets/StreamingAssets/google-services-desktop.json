@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "257370149582",
+    "project_id": "my-ar-aiot-project1",
+    "storage_bucket": "my-ar-aiot-project1.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:257370149582:android:83050913e00a611181f69f",
+        "android_client_info": {
+          "package_name": "com.Unity.AiotProject1"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAkbxkznVifsjG2PeD48fJyNgyiwPqLIrc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
